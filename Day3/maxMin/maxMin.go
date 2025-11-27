@@ -13,6 +13,7 @@ func MaxAndMin(){
 			smallest = arr[i]
 		}
 	}
+	fmt.Println("\nFind max/min in an array")
 	fmt.Println("Largest is :",largest)
 	fmt.Println("Smallest is :",smallest)
 }
